@@ -1,0 +1,314 @@
+model,production year,mileage,engine capacity,price,currency,city,region
+Opel Corsa D,2009,134 000 km,1 229 cm3,9 800,PLN,Pleszew,Wielkopolskie
+Opel Corsa D,2009,102 000 km,1 200 cm3,14 800,PLN,Bodzentyn,Œwiêtokrzyskie
+Opel Corsa D,2009,120 000 km,1 200 cm3,12 400,PLN,Legnica,Dolnoœl¹skie
+Opel Corsa D,2009,142 000 km,1 200 cm3,14 500,PLN,Gniezno,Wielkopolskie
+Opel Corsa D,2010,98 646 km,1 229 cm3,20 000,PLN,£ódŸ,£ódzkie
+Opel Corsa D,2009,123 478 km,1 364 cm3,15 990,PLN,Ocice,Dolnoœl¹skie
+Opel Corsa D,2012,117 000 km,1 000 cm3,14 900,PLN,Barcice,Ma³opolskie
+Opel Corsa D,2011,85 100 km,1 229 cm3,16 900,PLN,Wrzeœnia,Wielkopolskie
+Opel Corsa D,2012,142 432 km,1 224 cm3,12 600,PLN,Góra Kalwaria,Mazowieckie
+Opel Corsa D,2009,135 300 km,1 229 cm3,15 999,PLN,Chmielów,Podkarpackie
+Opel Corsa D,2014,136 000 km,1 229 cm3,19 900,PLN,Grodzisk Mazowiecki,Mazowieckie
+Opel Corsa D,2009,130 000 km,Benzyna,17 900,PLN,Bielsko-Bia³a,Œl¹skie
+Opel Corsa D,2011,133 840 km,1 384 cm3,17 300,PLN,Mokobody,Mazowieckie
+Opel Corsa D,2009,120 128 km,1 364 cm3,14 990,PLN,Olsztyn,Warmiñsko-mazurskie
+Opel Corsa D,2010,95 000 km,1 200 cm3,19 500,PLN,Skoczów,Œl¹skie
+Opel Corsa D,2012,115 000 km,1 200 cm3,19 700,PLN,Jaœkowice,Ma³opolskie
+Opel Corsa D,2009,118 000 km,998 cm3,11 700,PLN,Sulechów,Lubuskie
+Opel Corsa D,2010,76 500 km,Benzyna,18 900,PLN,Kamienna Góra,Dolnoœl¹skie
+Opel Corsa D,2009,135 621 km,1 229 cm3,12 800,PLN,Szamotu³y,Wielkopolskie
+Opel Corsa D,2009,108 000 km,1 200 cm3,14 900,PLN,P³oñsk,Mazowieckie
+Opel Corsa D,2010,125 270 km,1 229 cm3,10 900,PLN,Kotlin,Wielkopolskie
+Opel Corsa D,2009,114 000 km,1 229 cm3,13 900,PLN,Gryfów Œl¹ski,Dolnoœl¹skie
+Opel Corsa D,2010,107 022 km,1 229 cm3,19 000,PLN,Piaseczno,Mazowieckie
+Opel Corsa D,2011,128 000 km,1 200 cm3,16 900,PLN,Bytom,Œl¹skie
+Opel Corsa D,2010,139 525 km,1 200 cm3,17 300,PLN,Plewno,Kujawsko-pomorskie
+Opel Corsa D,2014,77 900 km,1 400 cm3,19 999,PLN,Bydgoszcz,Kujawsko-pomorskie
+Opel Corsa D,2012,149 000 km,1 200 cm3,16 500,PLN,Mszczonów,Mazowieckie
+Opel Corsa D,2009,82 000 km,998 cm3,4 900,PLN,Pi³a,Wielkopolskie
+Opel Corsa D,2010,89 000 km,1 200 cm3,17 900,PLN,Mogilno,Kujawsko-pomorskie
+Opel Corsa D,2011,86 000 km,1 390 cm3,19 800,PLN,Miêdzyrzecz,Lubuskie
+Opel Corsa D,2013,104 530 km,1 229 cm3,15 900,PLN,Chojnice,Pomorskie
+Opel Corsa D,2009,132 000 km,1 229 cm3,14 990,PLN,Sieradz,£ódzkie
+Opel Corsa D,2009,110 300 km,1 229 cm3,17 900,PLN,£ódŸ,£ódzkie
+Opel Corsa D,2009,101 000 km,1 200 cm3,12 700,PLN,Be³chatów,£ódzkie
+Opel Corsa D,2010,102 500 km,1 400 cm3,14 500,PLN,Radom,Mazowieckie
+Opel Corsa D,2010,113 565 km,1 400 cm3,14 900,PLN,Strzelno,Kujawsko-pomorskie
+Opel Corsa D,2010,140 000 km,1 400 cm3,15 400,PLN,Opoczno,£ódzkie
+Opel Corsa D,2010,75 000 km,1 200 cm3,17 900,PLN,Kielce,Œwiêtokrzyskie
+Opel Corsa D,2009,130 000 km,1 229 cm3,14 700,PLN,S³omniki,Ma³opolskie
+Opel Corsa D,2011,141 000 km,1 229 cm3,14 900,PLN,Sieradz,£ódzkie
+Opel Corsa D,2012,79 000 km,1 229 cm3,18 850,PLN,Wroc³aw,Dolnoœl¹skie
+Opel Corsa D,2011,113 000 km,1 400 cm3,18 900,PLN,Spalice,Dolnoœl¹skie
+Opel Corsa D,2011,108 700 km,1 229 cm3,16 599,PLN,Mucharz,Ma³opolskie
+Opel Corsa D,2013,90 000 km,Benzyna,14 500,PLN,Komorów,Mazowieckie
+Opel Corsa D,2009,142 554 km,1 229 cm3,11 900,PLN,Bachórz,Podkarpackie
+Opel Corsa D,2011,98 986 km,1 200 cm3,15 900,PLN,Ustroñ,Œl¹skie
+Opel Corsa D,2011,146 000 km,1 400 cm3,16 900,PLN,Gniezno,Wielkopolskie
+Opel Corsa D,2010,107 022 km,1 229 cm3,18 500,PLN,Bielany Wroc³awskie,Dolnoœl¹skie
+Opel Corsa D,2009,147 000 km,1 200 cm3,14 900,PLN,Piaseczno,Mazowieckie
+Opel Corsa D,2012,77 000 km,1 200 cm3,19 900,PLN,B³a¿owa,Podkarpackie
+Opel Corsa D,2010,93 000 km,1 398 cm3,15 900,PLN,Wysogotowo,Wielkopolskie
+Opel Corsa D,2012,79 000 km,1 200 cm3,15 000,PLN,Katowice,Œl¹skie
+Opel Corsa D,2010,120 000 km,1 200 cm3,14 999,PLN,Mogilno,Kujawsko-pomorskie
+Opel Corsa D,2009,97 000 km,1 229 cm3,13 900,PLN,Warszawa,Mazowieckie
+Opel Corsa D,2010,107 022 km,1 229 cm3,18 500,PLN,£ódŸ,£ódzkie
+Opel Corsa D,2010,130 504 km,1 229 cm3,12 500,PLN,Olsztyn,Warmiñsko-mazurskie
+Opel Corsa D,2009,115 156 km,998 cm3,11 900,PLN,Gdañsk,Pomorskie
+Opel Corsa D,2011,141 000 km,1 395 cm3,17 900,PLN,Mszana,Œl¹skie
+Opel Corsa E,2015,110 000 km,1 400 cm3,19 900,PLN,Ostrzeszów,Wielkopolskie
+Opel Corsa D,2011,103 300 km,1 398 cm3,16 999,PLN,Z³otów,Wielkopolskie
+Opel Corsa D,2009,147 000 km,1 000 cm3,13 900,PLN,Wola Buczkowska,£ódzkie
+Opel Corsa D,2012,125 000 km,1 229 cm3,19 900,PLN,Che³m,Lubelskie
+Opel Corsa D,2011,131 000 km,1 200 cm3,19 500,PLN,Ko³obrzeg,Zachodniopomorskie
+Opel Corsa D,2013,99 000 km,1 400 cm3,13 407,PLN,Kraków,Ma³opolskie
+Opel Corsa D,2009,102 000 km,1 200 cm3,14 900,PLN,Rudniki,Œl¹skie
+Opel Corsa D,2010,134 000 km,1 200 cm3,12 800,PLN,Szczecin,Zachodniopomorskie
+Opel Corsa D,2010,120 000 km,1 229 cm3,17 777,PLN,Ciechanów,Mazowieckie
+Opel Corsa D,2011,145 200 km,1 200 cm3,17 900,PLN,Skórcz,Pomorskie
+Opel Corsa D,2010,144 000 km,1 229 cm3,14 700,PLN,Ciechanów,Mazowieckie
+Opel Corsa D,2013,141 000 km,1 000 cm3,15 900,PLN,Lublin,Lubelskie
+Opel Corsa D,2009,120 324 km,1 200 cm3,14 900,PLN,Czêstochowa,Œl¹skie
+Opel Corsa D,2011,114 000 km,1 398 cm3,19 900,PLN,Wola Radziszowska,Ma³opolskie
+Opel Corsa D,2012,92 000 km,1 200 cm3,18 900,PLN,Rybnik,Œl¹skie
+Opel Corsa D,2010,143 523 km,1 200 cm3,14 300,PLN,¯nin,Kujawsko-pomorskie
+Opel Corsa D,2009,146 890 km,1 230 cm3,17 700,PLN,Konradów,Œl¹skie
+Opel Corsa D,2011,110 000 km,1 200 cm3,18 900,PLN,Proszowice,Ma³opolskie
+Opel Corsa D,2012,119 000 km,1 200 cm3,14 500,PLN,Zduñska Wola,£ódzkie
+Opel Corsa D,2009,145 347 km,998 cm3,13 500,PLN,Sko³yszyn,Podkarpackie
+Opel Corsa D,2011,138 000 km,1 398 cm3,16 500,PLN,Gruszczyn,Wielkopolskie
+Opel Corsa D,2010,106 000 km,1 229 cm3,14 500,PLN,Olsztynek,Warmiñsko-mazurskie
+Opel Corsa D,2009,111 000 km,1 000 cm3,16 800,PLN,Trzebnica,Dolnoœl¹skie
+Opel Corsa D,2012,94 900 km,1 229 cm3,19 900,PLN,Œwiêtoch³owice,Œl¹skie
+Opel Corsa D,2010,137 500 km,998 cm3,15 000,PLN,Warszawa,Mazowieckie
+Opel Corsa D,2013,133 500 km,1 199 cm3,19 900,PLN,Kraków,Ma³opolskie
+Opel Corsa D,2011,125 000 km,1 200 cm3,18 900,PLN,I³awa,Warmiñsko-mazurskie
+Opel Corsa D,2010,98 140 km,1 229 cm3,13 999,PLN,Olsztyn,Warmiñsko-mazurskie
+Opel Corsa D,2009,144 711 km,998 cm3,13 900,PLN,Bêdzin,Œl¹skie
+Opel Corsa D,2009,81 115 km,1 364 cm3,19 900,PLN,Porêba,Œl¹skie
+Opel Corsa D,2009,103 000 km,1 398 cm3,17 300,PLN,K³obuck,Œl¹skie
+Opel Corsa D,2010,114 324 km,1 400 cm3,18 900,PLN,Czêstochowa,Œl¹skie
+Opel Corsa D,2009,143 000 km,Benzyna,9 900,PLN,Tuchola,Kujawsko-pomorskie
+Opel Corsa D,2010,108 753 km,1 229 cm3,13 900,PLN,Nidzica,Warmiñsko-mazurskie
+Opel Corsa D,2009,108 445 km,1 364 cm3,13 000,PLN,Kraków,Ma³opolskie
+Opel Corsa D,2009,146 270 km,1 229 cm3,16 500,PLN,Proszowice,Ma³opolskie
+Opel Corsa D,2011,145 800 km,1 229 cm3,17 500,PLN,Wo³ów,Dolnoœl¹skie
+Opel Corsa D,2010,120 000 km,1 200 cm3,16 700,PLN,Niewiarów,Ma³opolskie
+Opel Corsa D,2009,100 000 km,1 229 cm3,11 900,PLN,Koœcierzyna,Pomorskie
+Opel Corsa D,2010,146 810 km,1 229 cm3,12 900,PLN,Kalisz,Wielkopolskie
+Opel Corsa D,2009,139 000 km,1 000 cm3,10 900,PLN,Olsztyn,Warmiñsko-mazurskie
+Opel Corsa D,2009,150 000 km,1 200 cm3,15 000,PLN,Porêba,Œl¹skie
+Opel Corsa D,2011,77 000 km,1 229 cm3,19 500,PLN,Katowice,Œl¹skie
+Opel Corsa D,2009,83 500 km,1 364 cm3,16 500,PLN,Grotniki,£ódzkie
+Opel Corsa D,2011,85 200 km,1 200 cm3,15 900,PLN,Sosnowiec,Œl¹skie
+Opel Corsa D,2010,112 000 km,1 200 cm3,17 900,PLN,Wolbrom,Ma³opolskie
+Opel Corsa D,2011,82 500 km,1 129 cm3,19 800,PLN,Gostyñ,Wielkopolskie
+Opel Corsa D,2012,104 000 km,1 398 cm3,19 999,PLN,Wa³brzych,Dolnoœl¹skie
+Opel Corsa D,2011,101 000 km,1 200 cm3,17 900,PLN,Boles³awiec,Dolnoœl¹skie
+Opel Corsa D,2011,102 000 km,1 389 cm3,18 500,PLN,Radziejów,Kujawsko-pomorskie
+Opel Corsa D,2010,112 170 km,1 398 cm3,18 500,PLN,Che³mno,Kujawsko-pomorskie
+Opel Corsa D,2011,114 321 km,1 229 cm3,17 900,PLN,Olsztyn,Warmiñsko-mazurskie
+Opel Corsa D,2009,128 426 km,1 229 cm3,15 500,PLN,Pszczyna,Œl¹skie
+Opel Corsa D,2010,85 617 km,1 400 cm3,16 900,PLN,Nowy Konik,Mazowieckie
+Opel Corsa D,2009,128 000 km,1 200 cm3,9 500,PLN,Szamotu³y,Wielkopolskie
+Opel Corsa D,2009,149 000 km,1 229 cm3,15 900,PLN,Ciechanów,Mazowieckie
+Opel Corsa D,2011,101 222 km,1 200 cm3,11 900,PLN,Strzelno,Kujawsko-pomorskie
+Opel Corsa D,2010,110 000 km,1 200 cm3,13 900,PLN,£uków,Lubelskie
+Opel Corsa D,2010,118 000 km,Benzyna,17 900,PLN,Czarnków,Wielkopolskie
+Opel Corsa D,2011,131 456 km,1 598 cm3,16 600,PLN,Roztoka,Dolnoœl¹skie
+Opel Corsa D,2013,75 000 km,1 400 cm3,18 900,PLN,Skoczów,Œl¹skie
+Opel Corsa D,2010,92 000 km,1 000 cm3,18 800,PLN,Lubaczów,Podkarpackie
+Opel Corsa D,2011,125 000 km,1 200 cm3,18 900,PLN,Zawiercie,Œl¹skie
+Opel Corsa D,2009,128 000 km,1 400 cm3,14 999,PLN,Chojnów,Dolnoœl¹skie
+Opel Corsa D,2009,150 000 km,1 600 cm3,18 999,PLN,Chrzanów,Ma³opolskie
+Opel Corsa D,2010,146 000 km,1 200 cm3,13 900,PLN,£aziska Górne,Œl¹skie
+Opel Corsa D,2010,143 000 km,1 200 cm3,14 900,PLN,Bulowice,Ma³opolskie
+Opel Corsa D,2011,97 963 km,1 229 cm3,20 000,PLN,Kraków,Ma³opolskie
+Opel Corsa D,2009,109 000 km,998 cm3,15 900,PLN,Jaros³aw,Podkarpackie
+Opel Corsa D,2010,137 000 km,1 398 cm3,13 700,PLN,Grójec,Mazowieckie
+Opel Corsa D,2010,101 000 km,1 400 cm3,18 900,PLN,W¹growiec,Wielkopolskie
+Opel Corsa D,2012,93 645 km,1 200 cm3,18 600,PLN,Z¹bkowice Œl¹skie,Dolnoœl¹skie
+Opel Corsa D,2011,127 000 km,1 200 cm3,17 000,PLN,Rybnik,Œl¹skie
+Opel Corsa D,2009,100 700 km,1 229 cm3,11 300,PLN,Goleniów,Zachodniopomorskie
+Opel Corsa D,2009,110 700 km,1 229 cm3,13 500,PLN,Gniezno,Wielkopolskie
+Opel Corsa D,2013,105 218 km,Benzyna,18 500,PLN,Zambrów,Podlaskie
+Opel Corsa D,2011,109 350 km,1 400 cm3,19 900,PLN,Ustroñ,Œl¹skie
+Opel Corsa D,2014,112 000 km,1 400 cm3,19 600,PLN,Leszno,Wielkopolskie
+Opel Corsa D,2009,108 000 km,998 cm3,8 800,PLN,Ska³a,Ma³opolskie
+Opel Corsa D,2010,84 000 km,1 229 cm3,14 200,PLN,Pami¹tkowo,Wielkopolskie
+Opel Corsa D,2010,136 000 km,1 398 cm3,13 500,PLN,Resko,Zachodniopomorskie
+Opel Corsa D,2011,112 000 km,1 258 cm3,16 500,PLN,Czêstochowa,Œl¹skie
+Opel Corsa D,2009,121 456 km,1 229 cm3,3 499,PLN,Czarnków,Wielkopolskie
+Opel Corsa D,2009,101 000 km,1 229 cm3,16 900,PLN,Piotrków Kujawski,Kujawsko-pomorskie
+Opel Corsa D,2010,141 000 km,1 200 cm3,14 300,PLN,Mnichowo,Wielkopolskie
+Opel Corsa D,2010,95 128 km,1 398 cm3,17 500,PLN,Gryfino,Zachodniopomorskie
+Opel Corsa D,2011,92 858 km,1 229 cm3,17 900,PLN,Bydgoszcz,Kujawsko-pomorskie
+Opel Corsa D,2010,141 000 km,1 400 cm3,13 900,PLN,Chorzów,Œl¹skie
+Opel Corsa D,2009,142 000 km,998 cm3,10 000,PLN,Goleszów,Œl¹skie
+Opel Corsa D,2009,134 045 km,1 000 cm3,13 900,PLN,Zgorzelec,Dolnoœl¹skie
+Opel Corsa D,2009,131 000 km,1 229 cm3,15 950,PLN,Konin,Wielkopolskie
+Opel Corsa D,2009,150 000 km,998 cm3,10 900,PLN,Wa³brzych,Dolnoœl¹skie
+Opel Corsa D,2012,135 000 km,1 200 cm3,19 800,PLN,Brzozów,Podkarpackie
+Opel Corsa D,2010,134 000 km,1 400 cm3,18 990,PLN,Szczucin,Ma³opolskie
+Opel Corsa D,2014,148 521 km,1 398 cm3,19 999,PLN,Wa³brzych,Dolnoœl¹skie
+Opel Corsa D,2011,131 000 km,1 200 cm3,18 900,PLN,P³oñsk,Mazowieckie
+Opel Corsa D,2012,122 670 km,1 400 cm3,17 900,PLN,Lubliniec,Œl¹skie
+Opel Corsa D,2009,128 000 km,1 159 cm3,12 300,PLN,Radomsko,£ódzkie
+Opel Corsa D,2010,127 445 km,1 229 cm3,15 000,PLN,Kêdzierzyn-KoŸle,Opolskie
+Opel Corsa D,2010,104 000 km,1 400 cm3,16 900,PLN,Nowy Tomyœl,Wielkopolskie
+Opel Corsa D,2009,149 000 km,1 229 cm3,15 900,PLN,Ciechanów,Mazowieckie
+Opel Corsa D,2011,99 340 km,1 229 cm3,14 200,PLN,Dobrzykowice,Dolnoœl¹skie
+Opel Corsa D,2009,124 000 km,1 246 cm3,16 900,PLN,Lipno,Kujawsko-pomorskie
+Opel Corsa D,2010,110 000 km,1 224 cm3,13 999,PLN,Wo³ów,Dolnoœl¹skie
+Opel Corsa D,2009,104 000 km,1 200 cm3,16 900,PLN,Wodzis³aw Œl¹ski,Œl¹skie
+Opel Corsa D,2011,126 095 km,1 398 cm3,17 800,PLN,Pszów,Œl¹skie
+Opel Corsa D,2011,97 963 km,1 229 cm3,20 000,PLN,Poznañ,Wielkopolskie
+Opel Corsa D,2010,115 000 km,1 229 cm3,16 900,PLN,Kroœniewice,£ódzkie
+Opel Corsa D,2012,97 000 km,1 229 cm3,16 800,PLN,Lipowa,Œl¹skie
+Opel Corsa D,2010,119 000 km,1 229 cm3,9 900,PLN,Nieborowice,Œl¹skie
+Opel Corsa D,2010,83 300 km,1 243 cm3,19 900,PLN,£ódŸ,£ódzkie
+Opel Corsa D,2009,142 300 km,1 200 cm3,17 900,PLN,Strzegom,Dolnoœl¹skie
+Opel Corsa D,2011,97 963 km,1 229 cm3,20 000,PLN,Katowice,Œl¹skie
+Opel Corsa D,2011,120 700 km,1 200 cm3,18 900,PLN,Gorzów Wielkopolski,Lubuskie
+Opel Corsa D,2011,106 000 km,1 200 cm3,18 500,PLN,Che³m Œl¹ski,Œl¹skie
+Opel Corsa D,2011,106 000 km,1 200 cm3,17 500,PLN,Zawiercie,Œl¹skie
+Opel Corsa D,2012,127 445 km,1 200 cm3,17 200,PLN,D¹brówka,Ma³opolskie
+Opel Corsa D,2010,142 000 km,1 229 cm3,12 500,PLN,Ropczyce,Podkarpackie
+Opel Corsa D,2011,113 300 km,1 400 cm3,16 400,PLN,Sieradz,£ódzkie
+Opel Corsa D,2009,130 763 km,1 229 cm3,13 200,PLN,Pi³a,Wielkopolskie
+Opel Corsa D,2009,140 980 km,1 364 cm3,15 900,PLN,Radom,Mazowieckie
+Opel Corsa E,2014,92 000 km,1 200 cm3,19 900,PLN,Przysucha,Mazowieckie
+Opel Corsa D,2012,133 825 km,1 229 cm3,16 359,PLN,Gorzów Wielkopolski,Lubuskie
+Opel Corsa D,2009,144 091 km,1 229 cm3,12 490,PLN,Wo³omin,Mazowieckie
+Opel Corsa D,2010,119 000 km,1 400 cm3,15 900,PLN,¯ory,Œl¹skie
+Opel Corsa D,2012,79 000 km,1 229 cm3,17 900,PLN,Strzegom,Dolnoœl¹skie
+Opel Corsa D,2009,107 700 km,1 229 cm3,14 999,PLN,¯ywiec,Œl¹skie
+Opel Corsa D,2010,86 000 km,1 200 cm3,14 900,PLN,Lublin,Lubelskie
+Opel Corsa D,2010,88 000 km,1 200 cm3,15 500,PLN,Kêdzierzyn-KoŸle,Opolskie
+Opel Corsa D,2012,114 000 km,1 400 cm3,18 900,PLN,Jastrzêbie-Zdrój,Œl¹skie
+Opel Corsa D,2009,142 500 km,1 000 cm3,10 900,PLN,Grudzi¹dz,Kujawsko-pomorskie
+Opel Corsa D,2011,82 000 km,1 200 cm3,19 900,PLN,Przyszowice,Œl¹skie
+Opel Corsa D,2009,148 000 km,1 200 cm3,14 444,PLN,Zawiercie,Œl¹skie
+Opel Corsa D,2010,85 000 km,1 229 cm3,15 999,PLN,Kraków,Ma³opolskie
+Opel Corsa D,2009,79 889 km,1 229 cm3,6 499,PLN,Jasienica,Œl¹skie
+Opel Corsa D,2010,103 000 km,1 200 cm3,19 500,PLN,Tarnów,Ma³opolskie
+Opel Corsa D,2012,117 000 km,1 229 cm3,15 900,PLN,Kunice,Dolnoœl¹skie
+Opel Corsa C,2009,130 000 km,1 400 cm3,13 200,PLN,£ask,£ódzkie
+Opel Corsa D,2012,90 000 km,1 200 cm3,4 200,PLN,Dzietrzkowice,£ódzkie
+Opel Corsa D,2012,139 000 km,1 250 cm3,13 999,PLN,Oleœnica,Dolnoœl¹skie
+Opel Corsa D,2011,149 000 km,1 400 cm3,18 900,PLN,Truskolasy,Œl¹skie
+Opel Corsa D,2012,143 145 km,1 398 cm3,19 990,PLN,Zagórze,Ma³opolskie
+Opel Corsa D,2009,98 000 km,1 300 cm3,12 900,PLN,Z³otoryja,Dolnoœl¹skie
+Opel Corsa D,2011,98 496 km,Benzyna,17 900,PLN,Rostarzewo,Wielkopolskie
+Opel Corsa D,2010,102 000 km,1 200 cm3,16 100,PLN,Wroc³aw,Dolnoœl¹skie
+Opel Corsa D,2011,142 000 km,1 200 cm3,19 900,PLN,Mogilno,Kujawsko-pomorskie
+Opel Corsa D,2009,139 000 km,1 229 cm3,14 500,PLN,Rybnik,Œl¹skie
+Opel Corsa D,2009,142 000 km,1 364 cm3,16 500,PLN,Rybnik,Œl¹skie
+Opel Corsa D,2011,115 000 km,1 200 cm3,19 900,PLN,£uków,Lubelskie
+Opel Corsa D,2009,76 000 km,998 cm3,16 800,PLN,Jelenia Góra,Dolnoœl¹skie
+Opel Corsa D,2010,131 900 km,1 229 cm3,17 800,PLN,Paczków,Opolskie
+Opel Corsa D,2011,82 128 km,1 400 cm3,17 400,PLN,Poznañ,Wielkopolskie
+Opel Corsa D,2009,149 000 km,1 364 cm3,19 900,PLN,Nysa,Opolskie
+Opel Corsa D,2012,150 000 km,1 200 cm3,17 900,PLN,Rzeszów,Podkarpackie
+Opel Corsa D,2009,137 000 km,1 200 cm3,16 900,PLN,Raszyn,Mazowieckie
+Opel Corsa D,2010,111 502 km,1 299 cm3,16 900,PLN,Chrzanów,Ma³opolskie
+Opel Corsa D,2011,135 000 km,1 229 cm3,15 999,PLN,¯ory,Œl¹skie
+Opel Corsa D,2011,119 699 km,1 400 cm3,17 999,PLN,Chojnice,Pomorskie
+Opel Corsa D,2009,111 000 km,1 200 cm3,12 500,PLN,Warka,Mazowieckie
+Opel Corsa D,2009,125 031 km,998 cm3,12 500,PLN,Bytom,Œl¹skie
+Opel Corsa D,2009,125 000 km,1 200 cm3,18 400,PLN,Gryfów Œl¹ski,Dolnoœl¹skie
+Opel Corsa D,2012,135 000 km,1 398 cm3,19 900,PLN,Wyszków,Mazowieckie
+Opel Corsa D,2011,143 000 km,1 200 cm3,13 900,PLN,S³omniki,Ma³opolskie
+Opel Corsa D,2010,105 520 km,1 229 cm3,15 900,PLN,Z¹bki,Mazowieckie
+Opel Corsa D,2010,140 000 km,1 400 cm3,19 900,PLN,Borowe,Œl¹skie
+Opel Corsa D,2010,143 000 km,1 240 cm3,15 900,PLN,Toruñ,Kujawsko-pomorskie
+Opel Corsa D,2013,100 000 km,1 200 cm3,19 515,PLN,Dzier¿¹¿no,Pomorskie
+Opel Corsa D,2011,92 000 km,1 400 cm3,19 200,PLN,Wolbrom,Ma³opolskie
+Opel Corsa D,2009,145 000 km,1 200 cm3,14 200,PLN,Wolbrom,Ma³opolskie
+Opel Corsa D,2014,77 000 km,998 cm3,18 900,PLN,Mor¹g,Warmiñsko-mazurskie
+Opel Corsa D,2012,114 680 km,1 400 cm3,19 900,PLN,P³ock,Mazowieckie
+Opel Corsa D,2009,129 000 km,1 400 cm3,16 500,PLN,Bytom,Œl¹skie
+Opel Corsa D,2011,148 130 km,1 198 cm3,19 700,PLN,Mod³a,£ódzkie
+Opel Corsa D,2012,119 514 km,1 200 cm3,18 700,PLN,Trzemeszno,Wielkopolskie
+Opel Corsa D,2010,129 700 km,1 229 cm3,15 900,PLN,Mogilno,Kujawsko-pomorskie
+Opel Corsa D,2011,108 800 km,1 229 cm3,16 700,PLN,Wroc³aw,Dolnoœl¹skie
+Opel Corsa D,2011,98 000 km,1 200 cm3,17 300,PLN,Sieradz,£ódzkie
+Opel Corsa D,2012,115 000 km,1 200 cm3,17 990,PLN,Gostyñ,Œl¹skie
+Opel Corsa D,2010,95 000 km,1 229 cm3,16 900,PLN,Elbl¹g,Warmiñsko-mazurskie
+Opel Corsa D,2010,121 300 km,1 229 cm3,17 300,PLN,Toruñ,Kujawsko-pomorskie
+Opel Corsa D,2010,132 000 km,1 229 cm3,16 500,PLN,Warszawa,Mazowieckie
+Opel Corsa D,2011,106 400 km,1 398 cm3,16 700,PLN,Poznañ,Wielkopolskie
+Opel Corsa D,2010,93 000 km,1 200 cm3,17 900,PLN,Lipno,Kujawsko-pomorskie
+Opel Corsa D,2009,112 000 km,1 200 cm3,18 900,PLN,Kampinos,Mazowieckie
+Opel Corsa D,2009,104 486 km,998 cm3,11 999,PLN,Zblewo,Pomorskie
+Opel Corsa D,2009,121 145 km,1 229 cm3,17 300,PLN,¯nin,Kujawsko-pomorskie
+Opel Corsa D,2011,139 000 km,1 200 cm3,19 900,PLN,Przasnysz,Mazowieckie
+Opel Corsa D,2013,118 000 km,1 000 cm3,13 400,PLN,Luboñ,Wielkopolskie
+Opel Corsa D,2011,107 000 km,1 398 cm3,19 500,PLN,Bytom,Œl¹skie
+Opel Corsa D,2011,83 000 km,1 398 cm3,18 900,PLN,Sieraków,Mazowieckie
+Opel Corsa D,2010,105 658 km,1 400 cm3,17 900,PLN,Alwernia,Ma³opolskie
+Opel Corsa D,2012,105 500 km,1 229 cm3,18 850,PLN,Œwidnica,Dolnoœl¹skie
+Opel Corsa D,2012,113 000 km,1 000 cm3,12 900,PLN,W¹growiec,Wielkopolskie
+Opel Corsa D,2010,115 683 km,1 229 cm3,14 900,PLN,Prabuty,Pomorskie
+Opel Corsa D,2011,91 000 km,1 364 cm3,10 999,PLN,Kostom³oty Pierwsze,Œwiêtokrzyskie
+Opel Corsa D,2010,106 000 km,1 400 cm3,17 900,PLN,Strzegom,Dolnoœl¹skie
+Opel Corsa D,2011,81 000 km,1 229 cm3,19 900,PLN,Jelenia Góra,Dolnoœl¹skie
+Opel Corsa B,2011,146 500 km,1 200 cm3,18 800,PLN,Ostrowiec Œwiêtokrzyski,Œwiêtokrzyskie
+Opel Corsa D,2009,124 956 km,1 364 cm3,19 900,PLN,Radom,Mazowieckie
+Opel Corsa D,2009,135 000 km,1 229 cm3,11 900,PLN,¯ory,Œl¹skie
+Opel Corsa D,2011,135 000 km,1 229 cm3,18 500,PLN,Sucha Beskidzka,Ma³opolskie
+Opel Corsa D,2010,132 410 km,1 400 cm3,13 500,PLN,Augustowo,Wielkopolskie
+Opel Corsa D,2010,145 000 km,1 398 cm3,18 800,PLN,Góra Kalwaria,Mazowieckie
+Opel Corsa D,2010,87 500 km,1 200 cm3,18 200,PLN,Le¿ajsk,Podkarpackie
+Opel Corsa D,2012,81 200 km,1 229 cm3,16 900,PLN,Konin,Wielkopolskie
+Opel Corsa D,2009,78 000 km,998 cm3,14 900,PLN,Knurów,Œl¹skie
+Opel Corsa D,2010,98 000 km,1 200 cm3,18 900,PLN,Olsztyn,Warmiñsko-mazurskie
+Opel Corsa D,2009,116 000 km,1 229 cm3,13 990,PLN,Szczecin,Zachodniopomorskie
+Opel Corsa D,2011,129 853 km,1 229 cm3,18 900,PLN,Ryki,Lubelskie
+Opel Corsa D,2009,98 000 km,1 200 cm3,15 900,PLN,Tarnów,Ma³opolskie
+Opel Corsa D,2011,120 000 km,1 400 cm3,15 999,PLN,Strzelno,Kujawsko-pomorskie
+Opel Corsa D,2011,144 000 km,1 200 cm3,18 999,PLN,Strzelno,Kujawsko-pomorskie
+Opel Corsa D,2009,123 293 km,1 229 cm3,14 700,PLN,£ask,£ódzkie
+Opel Corsa D,2010,135 000 km,1 200 cm3,13 800,PLN,Sade Budy,Mazowieckie
+Opel Corsa D,2010,135 700 km,999 cm3,9 500,PLN,Szamotu³y,Wielkopolskie
+Opel Corsa D,2010,137 543 km,1 229 cm3,15 600,PLN,Goleniów,Zachodniopomorskie
+Opel Corsa D,2009,108 000 km,1 364 cm3,16 800,PLN,Zabrze,Œl¹skie
+Opel Corsa D,2010,82 000 km,1 398 cm3,18 800,PLN,Szczecin,Zachodniopomorskie
+Opel Corsa D,2010,120 000 km,1 200 cm3,17 900,PLN,Maków Mazowiecki,Mazowieckie
+Opel Corsa D,2009,112 564 km,Benzyna,9 900,PLN,Pi³a,Wielkopolskie
+Opel Corsa D,2010,150 000 km,1 400 cm3,18 500,PLN,Chêciny,Œwiêtokrzyskie
+Opel Corsa D,2010,97 000 km,1 229 cm3,16 900,PLN,Koñskie,Œwiêtokrzyskie
+Opel Corsa D,2012,100 000 km,1 224 cm3,17 900,PLN,Wrzeœnia,Wielkopolskie
+Opel Corsa D,2011,99 400 km,1 400 cm3,18 999,PLN,Garwolin,Mazowieckie
+Opel Corsa D,2010,128 000 km,1 200 cm3,16 400,PLN,Maków Mazowiecki,Mazowieckie
+Opel Corsa D,2009,102 000 km,1 364 cm3,18 888,PLN,Bytom,Œl¹skie
+Opel Corsa D,2009,126 232 km,1 200 cm3,13 700,PLN,Nowa S³upia,Œwiêtokrzyskie
+Opel Corsa D,2011,132 000 km,1 200 cm3,18 500,PLN,Kanie,Mazowieckie
+Opel Corsa D,2011,148 000 km,1 229 cm3,16 900,PLN,Konin,Wielkopolskie
+Opel Corsa D,2011,121 000 km,1 200 cm3,17 900,PLN,Gniezno,Wielkopolskie
+Opel Corsa D,2009,122 000 km,1 229 cm3,14 000,PLN,Aleksandrów £ódzki,£ódzkie
+Opel Corsa D,2009,99 000 km,1 200 cm3,15 500,PLN,Ruszcza,Œwiêtokrzyskie
+Opel Corsa D,2010,126 000 km,1 400 cm3,19 900,PLN,Zduñska Wola,£ódzkie
+Opel Corsa E,2016,89 683 km,1 398 cm3,5 999,PLN,Oleœnica,Dolnoœl¹skie
+Opel Corsa D,2009,133 000 km,1 248 cm3,15 300,PLN,Tyczyn,Podkarpackie
+Opel Corsa D,2011,94 000 km,1 200 cm3,17 500,PLN,¯nin,Kujawsko-pomorskie
+Opel Corsa D,2009,112 000 km,1 364 cm3,16 000,PLN,Wide³ki,Œwiêtokrzyskie
+Opel Corsa D,2012,130 800 km,1 398 cm3,20 000,PLN,Bogatynia,Dolnoœl¹skie
+Opel Corsa D,2009,134 000 km,1 200 cm3,12 900,PLN,Boles³awiec,Dolnoœl¹skie
+Opel Corsa D,2011,137 000 km,1 229 cm3,17 900,PLN,Gomulin-Kolonia,£ódzkie
+Opel Corsa D,2009,76 000 km,998 cm3,12 900,PLN,Sianów,Zachodniopomorskie
+Opel Corsa D,2009,147 000 km,1 229 cm3,15 900,PLN,Œwiebodzin,Lubuskie
+Opel Corsa D,2010,99 945 km,1 200 cm3,16 500,PLN,Kluczbork,Opolskie
+Opel Corsa D,2009,141 000 km,1 200 cm3,15 900,PLN,Nowy S¹cz,Ma³opolskie
+Opel Corsa D,2011,96 000 km,1 200 cm3,14 800,PLN,Bielsko-Bia³a,Œl¹skie
+Opel Corsa D,2011,139 000 km,1 400 cm3,17 900,PLN,Zawiercie,Œl¹skie
+Opel Corsa D,2011,142 659 km,1 398 cm3,14 400,PLN,Boles³awiec,Dolnoœl¹skie
+Opel Corsa D,2010,132 000 km,1 400 cm3,17 900,PLN,Zamoœæ,Lubelskie
+Opel Corsa D,2010,131 796 km,1 200 cm3,13 600,PLN,Gorzów Wielkopolski,Lubuskie
+Opel Corsa D,2010,117 000 km,1 400 cm3,17 500,PLN,Ostrów Mazowiecka,Mazowieckie
+Opel Corsa D,2014,105 000 km,1 200 cm3,16 900,PLN,Mys³owice,Œl¹skie
+Opel Corsa D,2013,127 000 km,1 398 cm3,19 900,PLN,Tokarnia,Ma³opolskie
+Opel Corsa D,2009,139 000 km,1 200 cm3,16 900,PLN,Ruda Œl¹ska,Œl¹skie
+Opel Corsa E,2016,76 000 km,1 200 cm3,8 900,PLN,Bielsko-Bia³a,Œl¹skie
+Opel Corsa D,2011,120 000 km,1 000 cm3,17 500,PLN,Skierniewice,£ódzkie
