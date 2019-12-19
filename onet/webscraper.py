@@ -95,7 +95,7 @@ def get_category_url(category, browser):
             print(l['href'])
             return l['href']
 
-    return "Nie znaleziono"
+    return "Not found"
 
 
 def start():
